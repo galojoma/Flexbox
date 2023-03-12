@@ -1,0 +1,26 @@
+{
+  "name": "flexbox",
+  "version": "1.0.0",
+  "description": "this code serves as the starter code you will need to use for the module 1 checkpoint 2 flexbox assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/galojoma/Flexbox.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/galojoma/Flexbox/issues"
+  },
+  "homepage": "https://github.com/galojoma/Flexbox#readme",
+  "devDependencies": {},
+  "dependencies": {
+    "browser-sync": "^2.28.3",
+    "gulp-cli": "^2.3.0",
+    "gulp": "^4.0.2"
+  }
+}
